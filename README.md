@@ -2,7 +2,7 @@
 
 To submit this problem:
 
-* In your Codespace, run `submit50 PROBLEM`, replacing `PROBLEM` with "cash".
+* In your Codespace, run `submit50 PROBLEM`, replacing `PROBLEM` with `cash`.
 
 If you're getting an error such as:
 
