@@ -11,7 +11,7 @@ Please make sure you have the correct access rights and the repository exists.
 Failed to clone "git@github.com:/classroom50/cash-USERNAME".
 ```
 
-Make sure you've accepted the assignment on GitHub classroom! https://classroom.github.com/a/vGHVqQOW
+Make sure you've accepted the assignment on GitHub classroom!
 
 Once you have submitted this problem, your score will be available on GitHub after a few minutes. To view your score:
 
